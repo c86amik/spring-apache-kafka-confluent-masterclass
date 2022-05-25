@@ -1,6 +1,6 @@
-# spring-apache-kafka-consumer-masterclass
+# spring-apache-kafka-confluent-masterclass
 
-## A good understanding of the usage of Apache Kafka with Spring Boot for consuming messages as published in the Topic
+## A good understanding of the usage of Confluent with Spring Boot for publishing messages in the Topic
 
 ### Software Required
 * [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
