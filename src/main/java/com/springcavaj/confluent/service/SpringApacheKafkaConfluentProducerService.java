@@ -29,7 +29,7 @@ public class SpringApacheKafkaConfluentProducerService {
 	
 	public void send(UserModel userModel) {
 		LOGGER.info("Data to be sent to Kafka - {}", userModel);
-		kafkaJsonTemplate.send(APACHE_KAFKA_TOPIC_NAME, userModel);
+		kafkaJsonTemplate.send(APACHE_KAFKA_TOPIC_NAME, "springcavaj", userModel);
 	}
 
 }
