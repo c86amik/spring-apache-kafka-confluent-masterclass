@@ -7,8 +7,8 @@
 * [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/)
 * [Apache Maven](https://maven.apache.org/download.cgi)
 * [Git Bash](https://gramfile.com/git-bash-download/)
-* [WSL for Windows](https://kafka.apache.org/downloads)
-* [Confluent](https://dev.mysql.com/downloads/mysql/)
+* [WSL for Windows](https://github.com/c86amik/spring-apache-kafka-confluent-masterclass#install-wsl-for-windows)
+* [Confluent](https://github.com/c86amik/spring-apache-kafka-confluent-masterclass#install-confluent-on-wsl---ubuntu-2004)
 
 ### Install WSL For Windows
 
