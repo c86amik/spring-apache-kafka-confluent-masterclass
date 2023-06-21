@@ -49,9 +49,9 @@ Just replace the <strong>`start`</strong> command with <strong>`stop`</strong> c
 * Build the Jar file by running the command as - <p>`mvn clean install`</p>
 * It will build the <strong>.jar</strong>s file. Manually copy and paste the .jar file in any of the mounted directory in WSL
 * Run the .jar file, Command - <p>`java -jar spring-apache-kafka-confluent-masterclass-0.1.jar`</p>
-* The application will start in the port <strong>7115</strong>
+* The application will start in the port <strong>7118</strong>
 * Open Postman
-* Paste the URL as <p>`http://localhost:7115/confluent/produceJson`</p>
+* Paste the URL as <p>`http://localhost:7118/confluent/produceJson`</p>
 * Change the HTTP Method to POST
 * In the Body section copy and paste the below message
 * Send the message as - <p><code>{"firstName" : "First Name", "middleName" : "", "lastName" : "Last Name", "mobileNo" : "1234567890", "email" : "test@email.com", "panNo" : "ABCDE1234F"}</code></p>
@@ -60,7 +60,7 @@ Just replace the <strong>`start`</strong> command with <strong>`stop`</strong> c
 
 ### Testing using Postman
 <ol>
-<li><strong>Post UserModel for Producing and Consuming in Confluent</strong> - http://localhost:7115/confluent/produceJson</li>
+<li><strong>Post UserModel for Producing and Consuming in Confluent</strong> - http://localhost:7118/confluent/produceJson</li>
 </ol>
 
 ### Dummy JSON Object
