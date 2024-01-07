@@ -6,7 +6,7 @@
 * [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
 * [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/)
 * [Apache Maven](https://maven.apache.org/download.cgi)
-* [Git Bash](https://gramfile.com/git-bash-download/)
+* [Git Bash](https://git-scm.com/downloads)
 * [WSL for Windows](https://github.com/c86amik/spring-apache-kafka-confluent-masterclass#install-wsl-for-windows)
 * [Confluent](https://github.com/c86amik/spring-apache-kafka-confluent-masterclass#install-confluent-on-wsl---ubuntu-2004)
 
